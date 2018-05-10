@@ -1,0 +1,6 @@
+{
+    "name": "kyle/job-requisition",
+    "description": "sms notification project",
+    "type": "project",
+    "require": {}
+}
